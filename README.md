@@ -1,4 +1,4 @@
-# r3f-vite-starter
+# r3f-vite-theatre-starter
 A boilerplate to build R3F projects
 
 ```
