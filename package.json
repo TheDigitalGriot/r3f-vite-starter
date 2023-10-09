@@ -9,9 +9,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chatscope/chat-ui-kit-react": "^1.10.1",
+    "@chatscope/chat-ui-kit-styles": "^1.4.0",
+    "@formspree/react": "^2.5.1",
     "@react-three/drei": "9.75.0",
-    "@react-three/fiber": "8.13.3",
+    "@react-three/fiber": "^8.14.5",
+    "@theatre/core": "^0.5.1",
+    "@theatre/r3f": "^0.5.1",
+    "@theatre/studio": "^0.5.1",
     "@types/three": "0.152.1",
+    "dotenv": "^16.3.1",
+    "framer-motion": "^10.16.4",
+    "framer-motion-3d": "^10.16.4",
+    "jotai": "^2.4.3",
+    "leva": "^0.9.35",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "three": "0.153.0"
